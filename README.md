@@ -15,7 +15,7 @@ Put those in your `Roms/<folder name> (EASYRPG)` folder.
 
 ## Controls
 
-**I need feedback on the controls.**
+*I need feedback on the controls.*
 
 ## For RTP Files
 
