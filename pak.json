@@ -5,7 +5,7 @@
   "description": "This core emulates RPG Maker 2000 and 2003 games.",
   "author": "KrutzOtrem",
   "repo_url": "https://github.com/KrutzOtrem/nextui-easyrpg",
-  "release_filename": " EASYRPG.zip",
+  "release_filename": "EASYRPG.zip",
   "changelog": {
     "1.2.0": "Fixed a bug that causes save files to become corrupted or lost during gameplay."
   },
